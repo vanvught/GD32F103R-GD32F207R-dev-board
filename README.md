@@ -1,0 +1,2 @@
+# GD32F103R-GD32F207R-dev-board
+GD32F103RC / GD32F207RG development board 
