@@ -10,14 +10,12 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 
 <table>
 	<tr><th colspan="6">2x13 Header</th></tr>
-
 	<tr>
 	<td colspan="2">3.3V PWR</td>
 	<td>1</td>
 	<td>2</td>
 	<td colspan="2">5V PWR</td>
 	</tr>
-
 	<tr>
 	<td>I2C0 SCA</td>
 	<td>PB7</td>
@@ -25,7 +23,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>4</td>
 	<td colspan="2">5V PWR</td>
 	</tr>
-	
 	<tr>
 	<td>I2C0 SCL</td>
 	<td>PB6</td>
@@ -33,7 +30,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>6</td>
 	<td colspan="2">GND</td>
 	</tr>
-	
 	<tr>
 	<td></td>
 	<td>PA6</td>
@@ -42,7 +38,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>PC10</td>
 	<td>USART2 TX</td>
 	</tr>
-	
 	<tr>
 	<td colspan="2">GND</td>
 	<td>9</td>
@@ -50,7 +45,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>PC11</td>
 	<td>USART2 RX</td>
 	</tr>
-	
 	<tr>
 	<td>USART5 RX</td>
 	<td>PC7</td>
@@ -59,7 +53,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>PB10</td>
 	<td></td>
 	</tr>
-	
 	<tr>
 	<td>USART5 TX</td>
 	<td>PC6</td>
@@ -67,7 +60,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>14</td>
 	<td colspan="2">GND</td>
 	</tr>
-	
 	<tr>
 	<td></td>
 	<td>PB14</td>
@@ -76,7 +68,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>PB15</td>
 	<td></td>
 	</tr>
-	
 	<tr>
 	<td colspan="2">3.3V PWR</td>
 	<td>17</td>
@@ -84,7 +75,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>PA13</td>
 	<td>SWDIO</td>
 	</tr>
-	
 	<tr>
 	<td>SPI2 MOSI</td>
 	<td>PB5</td>
@@ -92,7 +82,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>20</td>
 	<td colspan="2">GND</td>
 	</tr>
-	
 	<tr>
 	<td>SPI2 MISO</td>
 	<td>PB4</td>
@@ -101,7 +90,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>PA11</td>
 	<td></td>
 	</tr>
-
 	<tr>
 	<td>SPI2 SCK</td>
 	<td>PB3</td>
@@ -110,7 +98,6 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 	<td>PA15</td>
 	<td>SPI2 CS</td>
 	</tr>
-	
 	<tr>
 	<td colspan="2">GND</td>
 	<td>25</td>
@@ -122,74 +109,61 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 
 <table>
 	<tr><th colspan="3">1x13 Header</th></tr>
-	
 	<tr>
 	<td>1</td>
 	<td colspan="2">NC</td>
 	</tr>
-
 	<tr>
 	<td>2</td>
 	<td colspan="2">GND</td>
 	</tr>
-	
 	<tr>
 	<td>3</td>
 	<td>PA14</td>
 	<td>SWCLK</td>
 	</tr>
-	
 	<tr>
 	<td>4</td>
 	<td colspan="2">GND</td>
 	</tr>
-	
 	<tr>
 	<td>5</td>
 	<td>PA13</td>
 	<td>SWDIO</td>
 	</tr>
-	
 	<tr>
 	<td>6</td>
 	<td colspan="2">NRST</td>
 	</tr>
-	
 	<tr>
 	<td>7</td>
 	<td>PA5</td>
 	<td>DAC1</td>
 	</tr>
-	
 	<tr>
 	<td>8</td>
 	<td>PA4</td>
 	<td>DAC0</td>
 	</tr>
-	
 	<tr>
 	<td>9</td>
 	<td>PC12</td>
 	<td>UART4 TX</td>
 	</tr>
-	
 	<tr>
 	<td>10</td>
 	<td>PD2</td>
 	<td>UART4 RX</td>
 	</tr>
-	
 	<tr>
 	<td>11</td>
 	<td colspan="2">NC</td>
 	</tr>
-	
 	<tr>
 	<td>12</td>
 	<td>PA3</td>
 	<td>ADC</td>
 	</tr>
-	
 	<tr>
 	<td>13</td>
 	<td colspan="2">NC</td>
@@ -198,17 +172,14 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 
 <table>
 	<tr><th colspan="2">USART0 (ISP)</th></tr>
-	
 	<tr>
 	<td>1</td>
 	<td>GND</td>
 	</tr>
-	
 	<tr>
 	<td>2</td>
 	<td>RX</td>
 	</tr>
-
 	<tr>
 	<td>3</td>
 	<td>TX</td>
@@ -243,49 +214,42 @@ The 2x13 header is pin compatible with the Orange Pi Zero and Raspberry Pi board
 
 <table>
 	<tr><th colspan="4">2x7 Header</th></tr>
-	
 	<tr>
 	<td>PB13</td>
 	<td>1</td>
 	<td>2</td>
 	<td>NC</td>
 	</tr>
-	
 	<tr>
 	<td>PB11</td>
 	<td>3</td>
 	<td>4</td>
 	<td>PB12</td>
 	</tr>
-	
 	<tr>
 	<td>PC4</td>
 	<td>5</td>
 	<td>6</td>
 	<td>PC5</td>
 	</tr>
-	
 	<tr>
 	<td>PA1</td>
 	<td>7</td>
 	<td>8</td>
 	<td>PA7</td>
 	</tr>
-	
 	<tr>
 	<td>PA2</td>
 	<td>9</td>
 	<td>10</td>
 	<td>PC1</td>
 	</tr>
-	
 	<tr>
 	<td>GND</td>
 	<td>11</td>
 	<td>12</td>
 	<td>GND</td>
 	</tr>
-
 	<tr>
 	<td>3V3</td>
 	<td>13</td>
