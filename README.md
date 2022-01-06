@@ -1,3 +1,7 @@
+See the latest here -> https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-dev-board
+
+-----------
+
 # GD32F103R-GD32F207R-dev-board
 
 This board can be used with the `GD32F103Rx` and the `GD32F207Rx` (Ethernet) MCU's. 
