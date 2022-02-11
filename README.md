@@ -1,4 +1,4 @@
-See the latest here -> https://github.com/vanvught/GD32F103R-GD32F107R-GD32F207R-dev-board
+See the latest here -> https://github.com/vanvught/GD32FxxxR-dev-board
 
 -----------
 
